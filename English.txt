@@ -1,0 +1,88 @@
+Вопрос         | Утверждение   | Отрицание
+Will I Гл.?    | I will Гл.    | I will not Гл.    |
+Will You Гл.?  | You will Гл.  | You will not Гл.  |
+Will We Гл.?   | We will Гл.   | We will not Гл.   | Будущее
+Will They Гл.? | They will Гл. | They will not Гл. |
+Will He Гл.?   | He will Гл.   | He will not Гл.   |
+Will She Гл.?  | She will Гл.  | She will not Гл.  |
+---------------|---------------|------------------------------
+Do I Гл.?      | I Гл.         | I Don't Гл.       |
+Do You Гл.?    | You Гл.       | You Don't Гл.     |
+Do We Гл.?     | We Гл.        | We Don't Гл.      | Настоящее
+Do They Гл.?   | They Гл.      | They Don't Гл.    |
+Does He Гл.?   | He Гл. + s    | He Doesn't Гл.    |
+Does She Гл.?  | She Гл. + s   | She Doesn't Гл.   |
+---------------|---------------|------------------------------
+Did I Гл.?     | I Гл. + d     | I Did not Гл.     |
+Did You Гл.?   | You Гл. + d   | You Did not Гл.   |
+Did We Гл.?    | We Гл. + d    | We Did not Гл.    | Прошедшее
+Did They Гл.?  | They Гл. + d  | They Did not Гл.  |
+Didn't He Гл.? | He Гл. + d    | He Didn't not Гл. |
+Didn't She Гл.?| She Гл. + d   | She Didn't not Гл.|
+               | (Неправ. Гл.) |                   |
+
+Кто? | Кого? Кому? | Чей? Чье? |
+I    | Me          | My        |
+You  | You         | Your      |
+He   | Him         | His       |
+She  | Her         | Her       |
+We   | Us          | Our       |
+They | Them        | Their     |
+
+What?  | Что? Какой?    | What you did take? (Что ты взял?)
+Who?   | Кто?           |
+Where? | Где? Куда?     | Where you do live? (Где ты живешь?)
+When?  | Когда?         | When will you see him? (Когда ты его увидишь?)
+Why?   | Почему? Зачем? |
+How?   | Как?           | How do you work? (Как ты работаешь?)
+
+'In' - в.
+'To' - куда, к чему, к кому.
+'From' - откуда, от кого, из чего.
+
+When will you come to me? (Когда ты придешь ко мне?)
+When will you come from London? (Когда ты приедешь из Лондона?)
+
+Well (Ну...)
+You know (Вы знаете)
+I mean (Я имею в виду)
+Like (Как бы)
+Sort of (Типа того)
+
+'Be' - Быть состояние! Быть не действие а состояние.
+'It' - это.
+'Here' - здесь, сюда.
+'There' - там, туда.
+
+'to be' - быть.
+Вопрос        | Утверждение  | Отрицание        | В процессе|
+Will I    be? | I    Will be | I    Will not be | гл. + ing |
+Will He   be? | He   Will be | He   Will not be | гл. + ing |
+Will She  be? | She  Will be | She  Will not be | гл. + ing |
+Will It   be? | It   Will be | It   Will not be | гл. + ing | Будущие
+Will You  be? | You  Will be | You  Will not be | гл. + ing |
+Will We   be? | We   Will be | We   Will not be | гл. + ing |
+Will They be? | They Will be | They Will not be | гл. + ing |
+--------------|--------------|------------------|-----------|----------
+Am  I?        | I      Am    | I    Am not      | гл. + ing |
+Is  He?       | He     Is    | He   Is not      | гл. + ing |
+Is  She?      | She    Is    | She  Is not      | гл. + ing |
+Is  It?       | It     Is    | It   Is not      | гл. + ing | Настоящие
+Are You?      | You    Are   | You  Are not     | гл. + ing |
+Are We?       | We     Are   | We   Are not     | гл. + ing |
+Are They?     | They   Are   | They Are not     | гл. + ing |
+--------------|--------------|------------------|-----------|-----------
+Was  I?       | I      Was   | I    Was not     | гл. + ing |
+Was  He?      | He     Was   | He   Was not     | гл. + ing |
+Was  She?     | She    Was   | She  Was not     | гл. + ing |
+Was  It?      | It     Was   | It   Was not     | гл. + ing | Прошедшие
+Were You?     | You    Were  | You  Were not    | гл. + ing |
+Were We?      | We     Were  | We   Were not    | гл. + ing |
+Were They?    | They   Were  | They Were not    | гл. + ing |
+
+'to' - неопределенная форма (I want to speak - я хочу говорить).
+
+She is here. (Она здесь.)
+Are you here? (Ты здесь?)
+Were they with you? (Они были с вами?)
+When will you go there? (Когда ты пойдешь туда?)
